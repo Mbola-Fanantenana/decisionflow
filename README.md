@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # decisionflow-backend
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -83,3 +84,6 @@ Easily start your REST Web Services
 Easily start your RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
+=======
+# decisionflow
+>>>>>>> 9e1590b4d8a5abfed0d938467fe97b3ba8147b54
