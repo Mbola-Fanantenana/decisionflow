@@ -1,4 +1,4 @@
-package io.decisionflow.options.model;
+package io.decisionflow.options;
 
 import io.decisionflow.decisions.model.Decision;
 import io.quarkus.hibernate.orm.panache.PanacheEntity;

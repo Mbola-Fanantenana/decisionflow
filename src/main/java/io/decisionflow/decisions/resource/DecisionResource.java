@@ -2,7 +2,7 @@ package io.decisionflow.decisions.resource;
 
 import io.decisionflow.decisions.model.Decision;
 import io.decisionflow.groups.model.Group;
-import io.decisionflow.options.model.Option;
+import io.decisionflow.options.Option;
 import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
