@@ -1,7 +1,7 @@
 package io.decisionflow.decisions.model;
 
 import io.decisionflow.groups.model.Group;
-import io.decisionflow.options.model.Option;
+import io.decisionflow.options.Option;
 import io.quarkus.hibernate.orm.panache.PanacheEntity;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToMany;

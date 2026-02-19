@@ -1,6 +1,6 @@
 package io.decisionflow.votes.model;
 
-import io.decisionflow.options.model.Option;
+import io.decisionflow.options.Option;
 import io.decisionflow.users.model.User;
 import io.quarkus.hibernate.orm.panache.PanacheEntity;
 import jakarta.persistence.ManyToOne;
